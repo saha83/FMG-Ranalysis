@@ -1,0 +1,11 @@
+Gender,Len,Qualification
+Male,2,None
+Female,0,None
+Male,1,ClassVI
+Female,0,ClassVI
+Male,1,ClassVIII
+Female,0,ClassVIII
+Male,0,ClassIX
+Female,1,ClassIX
+Male,1,ClassX
+Female,3,ClassX
